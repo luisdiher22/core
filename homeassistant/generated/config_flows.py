@@ -15,6 +15,7 @@ FLOWS = {
         "min_max",
         "mold_indicator",
         "random",
+        "runawaypet",
         "statistics",
         "switch_as_x",
         "template",

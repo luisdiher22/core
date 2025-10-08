@@ -7948,6 +7948,12 @@
       "config_flow": true,
       "iot_class": "calculated"
     },
+    "runawaypet": {
+      "name": "Runaway Pet Protection",
+      "integration_type": "helper",
+      "config_flow": true,
+      "iot_class": "calculated"
+    },
     "schedule": {
       "integration_type": "helper",
       "config_flow": false
