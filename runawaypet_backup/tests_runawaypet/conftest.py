@@ -9,10 +9,9 @@ from homeassistant.components.runawaypet.const import (
     CONF_NOTIFICATION_ENABLED,
     DOMAIN,
 )
+from homeassistant.config_entries import MockConfigEntry
 from homeassistant.const import CONF_NAME
 from homeassistant.core import HomeAssistant
-
-from tests.common import MockConfigEntry
 
 
 @pytest.fixture

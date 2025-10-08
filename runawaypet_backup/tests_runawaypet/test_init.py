@@ -5,7 +5,6 @@ import asyncio
 from homeassistant.components.runawaypet.const import DOMAIN
 from homeassistant.config_entries import ConfigEntryState
 from homeassistant.core import HomeAssistant
-
 from tests.common import MockConfigEntry
 
 

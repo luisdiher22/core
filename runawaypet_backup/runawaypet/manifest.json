@@ -1,9 +1,7 @@
 {
   "domain": "runawaypet",
   "name": "Runaway Pet Protection",
-  "codeowners": [
-    "@luisdiher22"
-  ],
+  "codeowners": ["@luisdiher22"],
   "config_flow": true,
   "dependencies": ["persistent_notification"],
   "documentation": "https://www.home-assistant.io/integrations/runawaypet",
